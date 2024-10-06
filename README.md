@@ -1,6 +1,6 @@
 # ap_microenvironments-HELIX
 
-<img src="HELIX.png" alt="HELIX logo" width="200"/>  
+<img src="HELIX.png" alt="HELIX logo" width="600"/>  
 
 This repository contains all the materials for the research article "Childhood exposure to outdoor air pollution in different microenvironments and cognitive and fine motor function in children from six European cohorts".
 
